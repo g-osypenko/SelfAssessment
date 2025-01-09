@@ -1,17 +1,17 @@
 ## Architecture
 
 - Application structure
-  - Modularity ~ 
-  - Components *
-  - Directories + 
-  - GRASP ~
-  - SOLID *
-  - GoF patterns ~
-  - CQS +
-  - Leaking abstractions ~
-  - Multiparadigm code *
-  - Contract programming +
-  - Platform-agnostic ~
+  - Modularity: 👂 heard
+  - Components: 🖐️ used
+  - Directories: 🎓 known
+  - GRASP: 👂 heard
+  - SOLID: 🖐️ used
+  - GoF patterns: 👂 heard
+  - CQS: 🎓 known
+  - Leaking abstractions: 👂 heard
+  - Multiparadigm code: 🖐️ used
+  - Contract programming: 🎓 known
+  - Platform-agnostic: 👂 heard
   - Transport-agnostic
   - Framework-agnostic
   - Code coverage
