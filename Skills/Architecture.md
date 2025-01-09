@@ -12,40 +12,40 @@
   - Multiparadigm code *
   - Contract programming +
   - Platform-agnostic ~
-  - Transport-agnostic
-  - Framework-agnostic
-  - Code coverage
-  - Cohesion
-  - Coupling
-  - Cyclomatic complexity
-  - Reliability
-  - Quality
-  - Availability
-  - Flexibility
-  - Law of Demeter (LoD)
+  - Transport-agnostic ~
+  - Framework-agnostic +
+  - Code coverage *
+  - Cohesion +
+  - Coupling *
+  - Cyclomatic complexity *
+  - Reliability +
+  - Quality +
+  - Availability *
+  - Flexibility ~
+  - Law of Demeter (LoD) +
 - Application architecture
-  - Isolation between layer
+  - Isolation between layer ~
   - Domain-specific language (DSL)
-  - System vs applied code
+  - System vs applied code +
   - Multilayer approach
-  - Hexagonal architecture
+  - Hexagonal architecture *
   - Separation of concerns (SoC)
-  - Metaprogramming
+  - Metaprogramming ~
   - Inversion of control (IoC)
-  - Dependency injection (DI)
+  - Dependency injection (DI) +
   - Clean architecture
   - Domain-driven design (DDD)
-  - Pub/sub
+  - Pub/sub +
   - Message brocker
-  - Agent
+  - Agent +
   - Service locator
   - Message Queue (MQ)
   - CQRS
   - Event sourcing
   - E-R data modeling
-  - Entity-relationship diagram
+  - Entity-relationship diagram *
   - IDEF1X
-  - UML
+  - UML +
   - Work breakdown structure
   - Budget estimation
   - Distributed systems
@@ -59,7 +59,7 @@
   - FaaS clouds
   - Serverless
   - Vendor lock-in
-  - Bus factor
+  - Bus factor ~
 - Solution architecture
   - A software requirements specification (SRS)
   - Solution visions
