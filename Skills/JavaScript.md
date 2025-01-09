@@ -1,31 +1,31 @@
 ## JavaScript
 
 - Language
-  - `Object`
-  - `Function`
-  - `Boolean`
-  - `Number`
-  - `BigInt`
-  - `String`
-  - `Symbol`
-  - `Infinity`
+  - `Object` *
+  - `Function` *
+  - `Boolean` *
+  - `Number` *
+  - `BigInt` *
+  - `String` *
+  - `Symbol` *
+  - `Infinity` *
   - `NaN`
-  - `undefined`
-  - `null`
-  - `this`
-  - `instanceof`
+  - `undefined` *
+  - `null` *
+  - `this` *
+  - `instanceof` *
   - `...spread`
-  - `...rest`
+  - `...rest` *
   - `typeof`
-  - Destructuring
-  - Generators
-  - Iterators
-  - Async generator
+  - Destructuring *
+  - Generators *
+  - Iterators *
+  - Async generator * 
   - Async iterator
   - Chaining
   - Optional chaining
   - IIFE
-  - Async IIFE
+  - Async IIFE ~
   - `global`
   - `globalThis`
   - `window`
@@ -41,7 +41,7 @@
   - `yield`
   - `await`
   - Template literal
-  - Strict mode
+  - Strict mode *
   - Hoisting
   - `delete`
   - `in`
@@ -59,38 +59,38 @@
   - Private class fields
   - Private class methods
 - Statements
-  - `if`
-  - `while`
-  - `do..while`
-  - `for`
-  - `for..in`
-  - `for..of`
+  - `if` *
+  - `while`*
+  - `do..while` *
+  - `for` *
+  - `for..in` *
+  - `for..of` *
   - `for await`
-  - `throw`
-  - `break`
-  - `continue`
+  - `throw` *
+  - `break` *
+  - `continue` *
   - `import`
   - `export`
   - `label`
   - `try..catch`
   - `switch`
-  - `class`
+  - `class` *
   - `extends`
   - `with`
   - `new`
 - Functions
-  - Arrow function
+  - Arrow function *
   - Async function
   - Function declaration
   - Function expression
   - Default parameters
-  - Functional object
+  - Functional object *
   - `Function.prototype.call`
   - `Function.prototype.bind`
   - `Function.prototype.apply`
   - `return`
 - Data structures
-  - `Array`
+  - `Array`*
   - `Map`
   - `Set`
   - `WeakMap`
@@ -101,15 +101,15 @@
 - Standard classes and namespaces
   - `Proxy`
   - `RegExp`
-  - `Date`
-  - `Math`
+  - `Date` *
+  - `Math` *
   - `Reflect`
   - `Error`
   - `Atomics`
   - `JSON`
   - `WeakRef`
   - `FinalizationRegistry`
-  - `Intl`
+  - `Intl`*
   - `Promise`
   - `console`
   - Timers
